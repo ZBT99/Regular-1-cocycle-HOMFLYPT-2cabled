@@ -1,0 +1,6 @@
+numpy
+sympy
+tqdm
+numba
+matplotlib
+regina
